@@ -5,6 +5,7 @@ import { Animated } from 'react-native';
 import { useSelector } from 'react-redux';
 
 import { theme } from '../../constants';
+// import AddItem from '../addItem';
 import CartNavigator from '../cart';
 import OrdersNavigator from '../orders';
 import ShopNavigator from '../shop';
